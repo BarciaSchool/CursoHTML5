@@ -15,7 +15,23 @@ header{
 }
 #ContenidoPrincipal{
     background-color: darkolivegreen;
+    margin-left: 200px;
+    margin-top: 50px;
+    padding-left: 50px;
+    padding-top: 50px;
 }
 footer{
     background-color: darkorange;
+}
+li{
+    background-color: rgb(255, 255, 0);
+    display: inline;
+}
+aside{
+    float: left;
+    height: 1020px;
+}
+img{
+    width: 720px;
+    height: 360px;
 }
