@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+}
+header{
+    background-color: blueviolet;
+}
+#Cabecera{
+    background-color: burlywood;
+}
+#navprincipal{
+    background-color: chartreuse;
+}
+#Barralateral{
+    background-color: darkcyan;
+}
+#ContenidoPrincipal{
+    background-color: darkolivegreen;
+}
+footer{
+    background-color: darkorange;
+}
